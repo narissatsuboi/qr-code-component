@@ -3,7 +3,10 @@
     font-family: 'Outfit', sans-serif;
 }
 
-
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+    font-size: 11px; text-align: center;
+}
 /* || Typography */
 
 
